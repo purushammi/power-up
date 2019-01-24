@@ -242,8 +242,6 @@ class software(object):
                 'Before beginning, the following files should be extracted from the\n'
                 'PowerAI base binary file and present on this node;\n'
                 '- mldl-repo-local-5.4.0-*.ppc64le.rpm\n'
-                '- dli-1.2.1.0_ppc64le.bin\n'
-                '- dli_entitlement.dat\n\n'
                 'The following files must also be downloaded to this node;\n'
                 '- cudnn-10.0-linux-ppc64le-v7.3.1.20.tgz\n'
                 '- nccl_2.3.4-1+cuda10.0_ppc64le.txz\n'
